@@ -1,0 +1,1 @@
+Job <67730> is submitted to default queue <interactive>.
